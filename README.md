@@ -2,4 +2,4 @@
 
 ## Created in Pycharm
 
-Just copy the whole project and open with pycharm.
+Just copy the whole project, open with pycharm and run the main.
